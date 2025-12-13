@@ -1,6 +1,6 @@
 # Pimoroni Pico Lipo
 
-My collection of scripts and code to run on my (Pimoroni Pico Lipo)[https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39386149093459] (4MB version).
+My collection of scripts and code to run on my [Pimoroni Pico Lipo](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39386149093459) (4MB version).
 
 ## Specifications
 
@@ -23,7 +23,7 @@ My collection of scripts and code to run on my (Pimoroni Pico Lipo)[https://shop
 
 ## Initialisation
 
-Board flashed with (Pimoroni's firmware v1.23.0-1)[https://github.com/pimoroni/pimoroni-pico/releases/tag/v1.23.0-1]. Hold down the BOOT button and press the Power button twice to put the device into bootloader mode. If the device isn't mounted under /Volumes check the USB-C cable is rated for data transfer and not just charging.
+Board flashed with [Pimoroni's firmware v1.23.0-1](https://github.com/pimoroni/pimoroni-pico/releases/tag/v1.23.0-1). Hold down the BOOT button and press the Power button twice to put the device into bootloader mode. If the device isn't mounted under /Volumes check the USB-C cable is rated for data transfer and not just charging.
 
 ## Scripts
 
