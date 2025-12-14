@@ -38,6 +38,8 @@ Modified example script to read the battery voltage (assuming there is one conne
 * Solid Red - Charging
 * ...
 
+# system-information.py
 
+Print to the console a bunch of information about the system environment. Note that some of these commands are different from a Raspberry Pico, probably due to the Pimoroni firmware being used.
 
 
